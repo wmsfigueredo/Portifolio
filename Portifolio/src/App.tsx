@@ -20,7 +20,7 @@ function App() {
         <section id="sobre" className="section about-section">
           <div className="profile-top">
             <div className="profile-circle">
-              <img src="/WhatsApp%20Image%202026-08-09%20at%2012.12.53.jpeg" alt="Foto de perfil" />
+              <img src="/img.png" alt="Foto de perfil" />
             </div>
           </div>
 
